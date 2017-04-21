@@ -1,0 +1,9 @@
+[Activity]
+name = Kunfu
+activity_version = 1
+bundle_id = org.sugarlabs.Kunfu
+icon = activity-kunfu
+exec = sugar-activity kunfuactivity.KunfuActivity
+licence = GPLv2+
+show_launcher = yes
+
